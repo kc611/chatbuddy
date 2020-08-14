@@ -1,1 +1,2 @@
-# chatbuddy
+# Chatbuddy ( A Django Chat APP )
+
